@@ -1,0 +1,13 @@
+﻿l_english:
+ reserves_mobilized:0 "National Militia Mobilized"
+ reserves_mobilized_desc:0 "Our national militia are currently mobilized and deployed. Increasing our strength but also causing economical burdens to our nation." 
+ demobilization_failed:0 "Failed Demobilization"
+ demobilization_failed_desc:0 "We failed to address the challenges posed by mass paramilitary mobilization in a timely manner and persisted in integrating militias as a permanent element of our military structure. §RWe must be prepared for severe negative effects it will have in our society and economy until the people gets used to it.§!"
+ militia_formed:0 "National Militia Formed"
+ militia_formed_desc:0 "Our National Militia forces are formed and ready. They can be mobilized and deployed in an event of war." 
+ fighting_forever:0 "Fighting Forever"
+ fighting_forever_desc:0 "§RI demolish my bridges behind me... then there is no choice but to move forward.§!"
+ small_loan_repayment:0 "Small Loan Repayment"
+ medium_loan_repayment:0 "Medium Loan Repayment"
+ large_loan_repayment:0 "Large Loan Repayment"
+ increased_taxation:0 "Increased Taxation"
