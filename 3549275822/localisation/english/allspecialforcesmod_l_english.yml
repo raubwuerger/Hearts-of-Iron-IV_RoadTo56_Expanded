@@ -1,0 +1,19 @@
+﻿l_english:
+
+  #Special Forces Branches
+  diversify_special_forces_again: "Specialized Branch II"
+  diversify_special_forces_again_desc: "Our conventional forces simply aren't enough to combat the oncoming storm. We must innovate."
+  
+  diversify_special_forces_again_again: "Specialized Branch III"
+  diversify_special_forces_again_again_desc: "Our conventional forces simply aren't enough to combat the oncoming storm. We must innovate."
+
+  diversify_special_forces_again_again_again: "Specialized Branch IV"
+  diversify_special_forces_again_again_again_desc: "Our conventional forces simply aren't enough to combat the oncoming storm. We must innovate."  
+
+  #Special Forces Cap
+  decision_training_program:0 "Launch Special Forces Training Program"
+  decision_training_program_desc:0 "With extensive training, we can ensure that our special forces will be able to perform above and beyond that of normal men."
+  idea_more_special_forces_cap:0 "Expanded Special Forces Training Program"
+  idea_more_special_forces_cap_desc:0 "Special forces are able to perform missions that ordinary soldiers can not. We need to expand the training program to get more of our soldiers qualified."
+  
+  

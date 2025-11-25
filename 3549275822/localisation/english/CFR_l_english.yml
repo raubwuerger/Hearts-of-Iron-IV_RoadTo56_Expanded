@@ -12,7 +12,7 @@
     
     CFR_desc_byline: "As our civilian industrial capacity grows, it will require additional resources to keep operating at full capacity."
     
-    CFR_desc_resources: "\n\nWe currently need §Y[?CFR_steel_usage]§! §4$PRODUCTION_MATERIALS_STEEL$§! , §Y[?CFR_chromium_usage]§! §6$PRODUCTION_MATERIALS_CHROMIUM$§! and §Y[?CFR_oil_usage]§! §3$PRODUCTION_MATERIALS_OIL$§! for our §Y[?num_of_civilian_factories] Civilian Factories§!."
+    CFR_desc_resources: "\n\nWe currently need §Y[?CFR_steel_usage]§! §4$PRODUCTION_MATERIALS_STEEL$§! for our §Y[?num_of_civilian_factories] Civilian Factories§!."
     
     CFR_desc_factories: "\n\n§Y[?CFR_light_industry]§! of our Civilian Factories require §G50% fewer§! resources due to being allocated for low-intensity purposes, such as $PRODUCTION_CONSUMER_GOODS$, $CONSTRUCTION_FACTORIES_PROJECTS_LABEL$, and $CONSTRUCTION_FACTORIES_TRADE_LABEL$."
     

@@ -1,0 +1,12 @@
+﻿l_english:
+ ecf.start.1.t:0 "Expanded Continuous Focuses: Compatibility Question"
+ ecf.start.1.d:0 "ECF works with base game and a growing list of other mods. In order to show the proper focuses, please select the mod you are playing with below. \n\nNOTE: In order to avoid overlap with some focus trees, the Continuous Focuses have been moved further down in the tree."
+ ecf.start.1.a:0 "I am playing Vanilla/No Overhaul Mods"
+ ecf.start.1.b:0 "I am playing with Road to 56"
+ ecf.start.1.c:0 "I am playing with Other Overhaul Mod(s)"
+ ecf.start.1.e:0 "Wait What? Other Overhaul Mods????"
+ ecf.start.1.e.tt:0 "Opens a list of compatible mods"
+ 
+ ecf.start.2.t:0 "ECF: Compatible Mods"
+ ecf.start.2.d:0 "ECF WILL work with these mods: \nRT56, KaiserReich, KaiserRedux, Old World Blues, & Millennium Dawn. \n\nECF MIGHT load with these mods: \nEquestria At War, Cold War Iron Curtain: A World Divided, Apres Moi Le Deluge,- Hearts of Oak -, Hearts of Oak 2: Directors Cut, and Hearts of Iron IV: The Great War, The Great War Redux, BlackICE, & Red Flood \n\nFuture support for more mods is intended, but will likely take a long time to be completed. Let me know if there are any issues by sending a message on the Steam page!"
+ ecf.start.2.a:0 "That's Epic! Now take me back."
