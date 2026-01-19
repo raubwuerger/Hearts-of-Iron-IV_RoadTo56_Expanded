@@ -1,0 +1,11 @@
+﻿l_german:
+ecf.start.1.t:0	"Erweiterte kontinuierliche Fokussierungen: Kompatibilitätsfrage"
+ecf.start.1.d:0	"ECF funktioniert mit dem Basisspiel und einer wachsenden Liste anderer Mods. Um die richtigen Fokussierungen anzuzeigen, wählen Sie bitte unten den Mod aus, mit dem Sie spielen. \n\nHINWEIS: Um Überschneidungen mit einigen Fokusbäumen zu vermeiden, wurden die kontinuierlichen Fokussierungen weiter nach unten im Baum verschoben."
+ecf.start.1.a:0	"Ich spiele Vanilla/keine Overhaul-Mods"
+ecf.start.1.b:0	"Ich spiele mit Road to 56"
+ecf.start.1.c:0	"Ich spiele mit anderen Überarbeitungsmods"
+ecf.start.1.e:0	"Moment mal, was? Andere Überarbeitungsmods?????"
+ecf.start.1.e.tt:0	"Öffnet eine Liste kompatibler Mods"
+ecf.start.2.t:0	"ECF: Kompatible Mods"
+ecf.start.2.d:0	"ECF funktioniert mit diesen Mods: \nRT56, KaiserReich, KaiserRedux, Old World Blues und Millennium Dawn. \n\nECF KÖNNTE mit diesen Mods geladen werden: \nEquestria At War, Cold War Iron Curtain: A World Divided, Apres Moi Le Deluge, Hearts of Oak, Hearts of Oak 2: Directors Cut und Hearts of Iron IV: The Great War, The Great War Redux, BlackICE und Red Flood \n\nDie Unterstützung weiterer Mods ist geplant, wird aber wahrscheinlich noch lange dauern. Bei Problemen senden Sie bitte eine Nachricht über die Steam-Seite!"
+ecf.start.2.a:0	"Das ist großartig! Jetzt bring mich zurück."
